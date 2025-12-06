@@ -40,7 +40,7 @@ I am a Senior Software Engineer and Backend Developer with 5+ years of experienc
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Psp766527&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Psp766527&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=psp766527&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
