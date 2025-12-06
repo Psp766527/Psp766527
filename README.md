@@ -40,7 +40,10 @@ I am a Senior Software Engineer and Backend Developer with 5+ years of experienc
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Psp766527&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=psp766527&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Pull Shark](https://img.shields.io/badge/Pull%20Shark-%2300A98F.svg?style=for-the-badge&logo=github&logoColor=white)
+![Arctic Code Vault Contributor](https://img.shields.io/badge/Arctic%20Code%20Vault%20Contributor-%2300A3E0.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
